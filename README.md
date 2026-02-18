@@ -1,5 +1,5 @@
 <h1 align="left" style="margin-bottom: 5px;">Tomás Alexandre</h1>
-<p align="right" style="margin-top: 0;">
+<p align="right" style="margin-right: 10px;">
   <code><b>MSc Student at NOVA FCT</b></code> 
   <code><b>Portuguese</b></code>
   <code><b>22</b></code>
