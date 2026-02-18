@@ -1,4 +1,4 @@
-<h1 align="left" style="margin-bottom: 5px;">Tomás Alexandre</h1>
+<h1 align="center" style="margin-bottom: 5px;">Tomás Alexandre</h1>
 
 <img 
   src="assets/1.jpeg" 
