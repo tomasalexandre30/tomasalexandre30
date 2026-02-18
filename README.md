@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Tomás+Alexandre" alt="Typing SVG" />
-</p>
+<h1 align="left">Tomás Alexandre</h1>
 
-**`MSc Student at NOVA FCT`**
+<p align="center">
+  <code><b>MSc Student at NOVA FCT</b></code>
+</p>
 
 <table align="center">
   <tr>
@@ -45,6 +45,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomasalexandre30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasalexandre30&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=86400" />
 </p>
