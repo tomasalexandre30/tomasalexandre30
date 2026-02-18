@@ -36,9 +36,3 @@ I embrace this mindset as I continue to learn, grow, and contribute to innovativ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
 </p>
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=tomasalexandre30" height="195" />
-</p>
-
