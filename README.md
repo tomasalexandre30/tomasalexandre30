@@ -2,6 +2,7 @@
 <p align="right" style="margin-top: 0;">
   <code><b>MSc Student at NOVA FCT</b></code> 
   <code><b>Portuguese</b></code>
+  <code><b>22</b></code>
 </p>
 <img 
   src="assets/1.jpeg" 
