@@ -39,7 +39,3 @@ I embrace this mindset as I continue to learn, grow, and contribute to innovativ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
 </p>
 <br clear="right"/>
-
-### GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasalexandre30)](https://github.com/anuraghazra/github-readme-stats)
