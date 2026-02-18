@@ -1,7 +1,7 @@
 <h1 align="left" style="margin-bottom: 5px;">Tomás Alexandre</h1>
 <p align="right" style="margin-top: 0;">
   <code><b>MSc Student at NOVA FCT</b></code> 
-  <code><b>Portuguese 🇵🇹</b></code>
+  <code><b>Portuguese</b></code>
 </p>
 <img 
   src="assets/1.jpeg" 
