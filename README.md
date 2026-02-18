@@ -12,7 +12,7 @@
       <p>I embrace this mindset as I continue to learn, grow, and contribute to innovative solutions in the field of computer engineering.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXJueXJueXJueXJueXJueXJueXJueXJueXJueXJueZSZW5mcmVlJTIwd29ya2luZyUyMGxhcHRvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4lyFe/giphy.gif" width="200" alt="Tech Illustration" />
+      <img src="assets/1.jpeg" width="200" alt="Tech Illustration" />
     </td>
   </tr>
 </table>
