@@ -33,4 +33,3 @@ I embrace this mindset as I continue to learn, grow, and contribute to innovativ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
 </p>
-<br clear="right"/>
