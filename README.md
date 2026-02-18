@@ -8,7 +8,7 @@
   <tr>
     <td width="60%">
       <p>Computer Engineering graduate from Universidade Autónoma de Lisboa, currently pursuing a Master’s degree at NOVA School of Science and Technology. Passionate about building secure and creative software solutions across web, mobile, and cybersecurity.</p>
-      <p align="center"><i>"Stay hungry, stay foolish." — Steve Jobs ➜</i></p>
+      <p align="center"><i>"Stay hungry, stay foolish." — Steve Jobs </i></p>
       <p>I embrace this mindset as I continue to learn, grow, and contribute to innovative solutions in the field of computer engineering.</p>
     </td>
     <td width="40%" align="center">
