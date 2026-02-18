@@ -2,7 +2,7 @@
 
 <img 
   src="assets/1.jpeg" 
-  width="185" 
+  width="285" 
   align="right"
   style="border-radius:20px; box-shadow:0px 10px 25px rgba(0,0,0,0.25); margin-left:35px;" 
 />
