@@ -1,46 +1,47 @@
-<h1 align="left">Tomás Alexandre</h1>
-
-<p align="center">
-  <code><b>MSc Student at NOVA FCT</b></code>
+<h1 align="left" style="margin-bottom: 5px;">Tomás Alexandre</h1>
+<p align="right" style="margin-top: 0;">
+  <code><b>MSc Student at NOVA FCT</b></code> 
+  <code><b>Portuguese 🇵🇹</b></code>
 </p>
+<img 
+  src="assets/1.jpeg" 
+  width="285" 
+  align="right"
+  style="border-radius:20px; box-shadow:0px 10px 25px rgba(0,0,0,0.25); margin-left:35px;" 
+/>
 
-<table align="center">
-  <tr>
-    <td width="60%">
-      <p>Computer Engineering graduate from Universidade Autónoma de Lisboa, currently pursuing a Master’s degree at NOVA School of Science and Technology. Passionate about building secure and creative software solutions across web, mobile, and cybersecurity.</p>
-      <p align="center"><i>"Stay hungry, stay foolish." — Steve Jobs </i></p>
-      <p>I embrace this mindset as I continue to learn, grow, and contribute to innovative solutions in the field of computer engineering.</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="assets/1.jpeg" width="200" alt="Tech Illustration" />
-    </td>
-  </tr>
-</table>
+Computer Engineering graduate from Universidade Autónoma de Lisboa, currently pursuing a Master’s degree at NOVA School of Science and Technology. Passionate about building secure and creative software solutions across web, mobile, and cybersecurity.
+
+<p align="center"><i>"Stay hungry, stay foolish." — Steve Jobs</i></p>
+
+I embrace this mindset as I continue to learn, grow, and contribute to innovative solutions in the field of computer engineering.
 
 ### Connect With Me
 
 <p>
-  <a href="mailto:tf.alexandre@campus.fct.unl.pt"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/tomas.alex30" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tomasalex30" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/kardon30" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:tf.alexandre@campus.fct.unl.pt"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/tomas.alex30"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tomasalex30"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/kardon30"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ### My Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" title="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35" title="C++" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" title="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" title="CSS3" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" title="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" title="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35" title="Flutter" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="35" title="Dart" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="35" title="R" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
 </p>
+
+<br clear="right"/>
 
 ### GitHub Stats
 
