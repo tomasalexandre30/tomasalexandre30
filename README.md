@@ -41,7 +41,5 @@ I embrace this mindset as I continue to learn, grow, and contribute to innovativ
 <br clear="right"/>
 
 ### GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomasalexandre30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasalexandre30&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=86400" />
-</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasalexandre30)](https://github.com/anuraghazra/github-readme-stats)
