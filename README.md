@@ -1,8 +1,8 @@
-<h1 align="left" style="margin-bottom: 5px;">Tomás Alexandre
+<h1 align="left" style="margin-bottom: 5px;">Tomás Alexandre</h1>
 
-</h1>
-<p align="left">
-  <code><b>MSc Student at NOVA FCT</b></code> 
+<p align="right">
+  <code><b>MSc Student at NOVA FCT</b></code>
+  &nbsp;&nbsp;
   <code><b>Portuguese</b></code>
 </p>
 <img 
@@ -12,14 +12,11 @@
   style="border-radius:20px; box-shadow:0px 10px 25px rgba(0,0,0,0.25); margin-left:35px;" 
 />
 
-Computer Engineering graduate from Universidade Autónoma de Lisboa, currently pursuing a Master’s degree at NOVA School of Science and Technology. Passionate about building secure and creative software solutions across web, mobile, and cybersecurity.
-
+Computer Engineering graduate from Universidade Autónoma de Lisboa, currently pursuing a Master's degree at NOVA School of Science and Technology. Passionate about building secure and creative software solutions across web, mobile, and cybersecurity.
 <p align="center"><i>"Stay hungry, stay foolish." — Steve Jobs</i></p>
-
 I embrace this mindset as I continue to learn, grow, and contribute to innovative solutions in the field of computer engineering.
 
 ### Connect With Me
-
 <p>
   <a href="mailto:tf.alexandre@campus.fct.unl.pt"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/tomas.alex30"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -28,7 +25,6 @@ I embrace this mindset as I continue to learn, grow, and contribute to innovativ
 </p>
 
 ### My Stack
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
@@ -42,11 +38,9 @@ I embrace this mindset as I continue to learn, grow, and contribute to innovativ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
 </p>
-
 <br clear="right"/>
 
 ### GitHub Stats
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomasalexandre30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasalexandre30&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=86400" />
